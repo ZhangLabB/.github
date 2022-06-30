@@ -1,1 +1,1 @@
-# Information sharing should be encouraged.
+## Accurate information sharing should be encouraged.
