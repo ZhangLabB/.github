@@ -1,4 +1,4 @@
-こんにちは！このOrganizationは、研究室メンバー間の情報共有の場になります。
+# こんにちは！このOrganizationは、研究室メンバー間の情報共有の場になります。
 
 2022/07/03現在、週報、論文共有、大学院入試の三つのリポジトリがあります。
 
@@ -17,7 +17,7 @@ TeamsのDiscussionsでは、話題の内容については問いません。様�
 以上 (文責 半田)
 
 
-Hello! This Organization is a place to share information among lab members.
+# Hello! This Organization is a place to share information among lab members.
 
 As of 2022/07/03, there are three repositories: weekly report, thesis sharing, and graduate school admissions.
 
